@@ -122,11 +122,11 @@ npm run dev
 ## 📸 Screenshots
 
 ### Dashboard
-[![Dashboard](https://i.ibb.co/yFdM7dBd/screen1.png)](https://i.ibb.co/yFdM7dBd/screen1.png)
+[![Dashboard](https://i.postimg.cc/nVT85ttv/screen1.png)](https://i.postimg.cc/nVT85ttv/screen1.png)
 *Main application dashboard showing file upload interface*
 
 ### File Processing
-[![File Processing](https://i.ibb.co/QF4KJZxK/screen2.png)](https://i.ibb.co/QF4KJZxK/screen2.png)
+[![File Processing](https://i.postimg.cc/J7Y6Z7LB/screen2.png)](https://i.postimg.cc/J7Y6Z7LB/screen2.png)
 *Real-time file processing status and results*
 
 MIT License
