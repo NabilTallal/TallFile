@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.venv/
+
+# ---- FastAPI / Celery ----
+*.log
+
+# ---- MinIO ----
+data/
+minio-data/
+
+# ---- Redis ----
+dump.rdb
+
+# ---- Docker ----
+*.pid
+*.seed
+
+# ---- Node / React ----
+node_modules/
+dist/
+.env.local
+.vscode/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Build artifacts ----
+*.egg-info/

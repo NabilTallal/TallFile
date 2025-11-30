@@ -1,0 +1,13 @@
+fastapi==0.99.0
+uvicorn[standard]==0.22.0
+python-multipart
+boto3
+minio
+pydantic
+celery==5.3.1
+redis==4.5.0
+PyPDF2==3.0.0
+Pillow==10.0.0
+pytest
+pytest-asyncio
+testcontainers==4.10.0
