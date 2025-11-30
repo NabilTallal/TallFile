@@ -119,6 +119,15 @@ npm run dev
  - User accounts / history
 
 ## 📄 License
+## 📸 Screenshots
+
+### Dashboard
+[![Dashboard](https://i.ibb.co/yFdM7dBd/screen1.png)](https://i.ibb.co/yFdM7dBd/screen1.png)
+*Main application dashboard showing file upload interface*
+
+### File Processing
+[![File Processing](https://i.ibb.co/QF4KJZxK/screen2.png)](https://i.ibb.co/QF4KJZxK/screen2.png)
+*Real-time file processing status and results*
 
 MIT License
 
